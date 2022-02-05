@@ -1,0 +1,28 @@
+name: winterakademie
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - graphviz=2
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - conda-forge::matplotlib=3.5
+  - notebook
+  - ipympl
+  - numpy=1.21
+  - pandas
+  - pip
+  - pydotplus
+  - pytables
+  - python-graphviz
+  - scikit-learn=1
+  - scipy
+  - seaborn
+  - tqdm
+  - xlrd>=1
+  - pillow
